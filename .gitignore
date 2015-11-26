@@ -1,0 +1,10 @@
+.bundlen.sass-cachen.vendorn_site > .gitignore 
+git add .gitignore
+git commit -m add .gitignore
+git push origin add_gitignore
+
+ls
+echo -e .bundle
+.sass-cache
+.vendor
+_site
